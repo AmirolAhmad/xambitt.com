@@ -11,7 +11,7 @@ $mail->isSMTP();                                      // Set mailer to use SMTP
 $mail->Host = 'smtp.google.com';                  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
 $mail->Username = '0x01@xambitt.com';    // SMTP username
-$mail->Password = 'AsDf12**';                         // SMTP password
+$mail->Password = 'qnowryfyebpexdez';                         // SMTP password
 $mail->SMTPSecure = 'TLS';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587;                                    // TCP port to connect to
 
