@@ -10801,6 +10801,13 @@ Section Title
   display: none;
 }
 
+.layout_6_dark_xambitt .clients-carousel .slide-item img {
+  background: unset;
+  -webkit-filter: brightness(1) invert(0) !important;
+          filter: brightness(1) invert(0) !important;
+  opacity: 0.4;
+}
+
 .layout_6_dark .clients-carousel .slide-item img {
   background: unset;
   -webkit-filter: brightness(0) invert(1);
